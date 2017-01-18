@@ -2,22 +2,15 @@
 There are N strings. Each string's length is no more than 20 characters. There are also Q queries. For each query, you are given a string, 
 and you need to find out how many times this string occurred previously.
 
-Input Format
-
+Input Format:
 The first line contains , the number of strings.
 The next  lines each contain a string.
 The nd line contains , the number of queries.
 The following  lines each contain a query string.
-
 */
-
-
 
 import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 public class Solution {
 
