@@ -1,4 +1,7 @@
 /*
+Sparse Arrays
+https://www.hackerrank.com/challenges/sparse-arrays
+
 There are N strings. Each string's length is no more than 20 characters. There are also Q queries. For each query, you are given a string, 
 and you need to find out how many times this string occurred previously.
 
