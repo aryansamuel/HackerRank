@@ -1,4 +1,7 @@
 /*
+Summing the N series
+https://www.hackerrank.com/challenges/summing-the-n-series
+
 You are given a sequence whose nth term is
                                     Tn = n^2 - (n-1)^2
 You have to evaluate the series
