@@ -1,6 +1,8 @@
 /*
-Due to the complexity of the question, instead of copy pasting it, I have provided a link:
+Self Balancing Tree
 https://www.hackerrank.com/challenges/self-balancing-tree
+
+Due to the complexity of the question, please follow the link above to read a description.
 */
 
    /* Class node is defined as :
