@@ -1,6 +1,8 @@
 /*
-Since copy pasting the question won't be enough to understand the problem, I've provided a link to it:
+Huffman Decoding
 https://www.hackerrank.com/challenges/tree-huffman-decoding
+
+Due to the complexity of the question, please follow the link above to read its description.
 */
 
 /*  
