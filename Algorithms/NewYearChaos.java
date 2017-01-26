@@ -1,4 +1,7 @@
 /*
+New Year Chaos
+https://www.hackerrank.com/challenges/new-year-chaos
+
 It's New Year's Day and everyone's in line for the Wonderland rollercoaster ride!
 
 There are n people queued up, and each person wears a sticker indicating their initial position in the queue 
