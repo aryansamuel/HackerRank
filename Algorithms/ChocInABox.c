@@ -1,5 +1,5 @@
 /*
-Chocolate In A Box:
+Chocolate In A Box
 https://www.hackerrank.com/challenges/chocolate-in-box
 
 Dexter and Debra are playing a game. They have N containers each having one or more chocolates. 
